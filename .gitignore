@@ -1,0 +1,29 @@
+# Compiled class files
+*.class
+
+# Maven build artifacts
+target/
+dependency-reduced-pom.xml
+
+# Local sensitive configuration (Contains database passwords)
+db.properties
+.env
+*.local
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE and Editor files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+
+# Log files
+*.log
